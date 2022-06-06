@@ -92,9 +92,9 @@
     "vue": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/Maronato/vue-toastification/issues"
+    "url": "https://github.com/dannyjalbert/vue-toastification/issues"
   },
-  "homepage": "https://github.com/Maronato/vue-toastification#readme",
+  "homepage": "https://github.com/dannyjalbert/vue-toastification#readme",
   "keywords": [
     "vue",
     "notification",
@@ -103,6 +103,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Maronato/vue-toastification.git"
+    "url": "https://github.com/dannyjalbert/vue-toastification.git"
   }
 }
