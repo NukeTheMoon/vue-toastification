@@ -26,11 +26,6 @@
   "jsdelivr": "dist/umd/index.min.js",
   "typings": "dist/types/src/index.d.ts",
   "types": "dist/types/src/index.d.ts",
-  "files": [
-    "dist",
-    "nuxt",
-    "composition"
-  ],
   "style": "dist/index.css",
   "dependencies": {},
   "devDependencies": {
