@@ -4,7 +4,7 @@ const path = require("path");
 
 /** @type {import("@nuxt/types").Module<import("../src/types/index").NuxtModuleOptions>} */
 const toastModule = function(moduleOptions) {
-  /** @type {import("../src/types/index").NuxtModuleOptions} */
+  /** @type {import("../dist/types/src/types/index").NuxtModuleOptions} */
   const toastOptions = this.options.toast;
   const cssFile = path.resolve(__dirname, "../dist/index.css");
   const options = Object.assign({ cssFile }, toastOptions, moduleOptions);

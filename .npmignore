@@ -1,0 +1,15 @@
+.github
+build
+examples
+public
+src
+tests
+.browserslistrc
+.eslintignore
+.eslintrc.js
+.gitignorex
+babel.config.js
+jest.config.js
+tsconfig.json
+vite.config.js
+yarn.lock

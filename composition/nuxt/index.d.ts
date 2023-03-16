@@ -1,4 +1,4 @@
-import type ToastInterface from "../../src/ts/interface";
+import type ToastInterface from "../../dist/types/src/ts/interface";
 
 declare let useToast: () => ReturnType<typeof ToastInterface>;
 
